@@ -1,5 +1,5 @@
 
-# **Sales Data Analysis and Reporting for a Retail Chain**
+# ** SalesEdge: Sales Data Analysis and Reporting for a Retail Chain**
 
 Welcome to the final project of my internship: **Sales Data Analysis and Reporting for a Retail Chain** using **Python, SQL, Excel, and Power BI**. This project showcases a comprehensive approach to analyzing retail sales data, leveraging a combination of tools and techniques to derive actionable insights and support data-driven decision-making.
 
