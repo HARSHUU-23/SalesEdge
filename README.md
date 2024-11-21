@@ -68,7 +68,7 @@ Thank you for your time and consideration.
 
 ---
 
-**Soumya Kumar Choulager**  
-📧 soumya.kc02@gmail.com
+**Harsh Navadiya**  
+📧 harshnavadiya33@gmail.com
 
 ---
